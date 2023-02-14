@@ -54,11 +54,9 @@ header, footer {
 h1, h2, p {
     font-weight: 100;
 }
-.box {
-    flex-direction: row;
-    display: flex;
-    flex-wrap: wrap;
-    width: 100%;
+
+.img {
+    margin: 0 10px 0 0;
 }
   
 footer {
